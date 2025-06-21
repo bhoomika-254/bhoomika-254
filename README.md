@@ -1,6 +1,6 @@
 <!-- Banner or profile avatar -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Bhoomika!;Full-stack+Dev+%7C+AI+Enthusiast+%7C+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Bhoomika!;ML+Engineer+%7C+%7C+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,12 +13,15 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Computer Science student passionate about building cool stuff
-- ⚡ Working on AI, RAG-based chatbots, and virtual simulations
-- 🚀 Exploring full-stack web development and LLM integration
-- 🌱 Currently learning: Supabase, Docker, and scalable deployment
+- 🎓 A senior year student, pursuing CSE in Hyderabad.
+- ⚡ High on AI, RAG-based chatbots, MCPs. 
+- 🌱 Always up for building cool stuff. Do connect with me on linkedin/twitter.
 
 ---
+
+### 📈 Experience 
+
+- Generative AI Intern at Deepforrest.ai (April 2025 - June 2025)
 
 ### 🛠️ Tech Stack
 
@@ -60,19 +63,13 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- 🧪 [**Virtual Lab**](https://github.com/bhoomika-254/virtual-lab) – Node.js + React-based interactive science lab with AI support  
-- 🤖 [**RAG Chatbot**](https://github.com/bhoomika-254/RAG-Chatbot) – Retrieval-Augmented Generation chatbot using Gemini Flash, ChromaDB, and Streamlit  
-- 🧠 More coming soon...
-
----
 
 ### 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bhoomikaramchandani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bhoomikaramchandani2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/bhoomikacodes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
