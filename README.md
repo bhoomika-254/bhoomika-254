@@ -13,15 +13,15 @@
 
 ### bit about me:
 
-- 🎓 A senior year student, pursuing CSE in Hyderabad.
--  High on AI, RAG-based chatbots, MCPs. 
-- 🌱 Always up for building cool stuff. Do connect with me on linkedin/twitter.
+- senior year student, pursuing CSE in Hyderabad.
+- high on AI, RAG-based chatbots, MCPs. 
+- always up for building cool stuff. do connect with me on linkedin/twitter.
 
 ---
 
 ### experience:
 
-- Generative AI Intern at Deepforrest.ai (April 2025 - June 2025)
+- generative AI intern at deepforrest.ai (April 2025 - June 2025)
 
 ---
 
