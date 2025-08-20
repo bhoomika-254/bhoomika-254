@@ -1,6 +1,6 @@
 <!-- Banner or profile avatar -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Bhoomika!;ML+Engineer+%7C+%7C+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=hey,+i'm+Bhoomika!;ML+Engineer+%7C+%7C+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@
 
 ---
 
-### gitHub stats:
+### github stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhoomika-254&show_icons=true&theme=radical" alt="bhoomika-254 GitHub Stats" />
