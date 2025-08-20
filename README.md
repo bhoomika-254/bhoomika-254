@@ -11,7 +11,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### bit about me:
 
 - 🎓 A senior year student, pursuing CSE in Hyderabad.
 -  High on AI, RAG-based chatbots, MCPs. 
@@ -19,15 +19,16 @@
 
 ---
 
-### 📈 Experience 
+### experience:
 
 - Generative AI Intern at Deepforrest.ai (April 2025 - June 2025)
 
 ---
 
-### 🛠️ Tech Stack
+### tech stack
 
-#### 👨‍💻 Programming Languages
+#### programming languages:
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
@@ -37,7 +38,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
 </p>
 
-#### 📚 Libraries & Frameworks
+#### libraries & frameworks:
 <p>
   <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
@@ -53,7 +54,7 @@
   <img src="https://img.shields.io/badge/LangGraph-000000?logoColor=white"/>
 </p>
 
-#### 🧰 Tools & Platforms
+#### tools & platforms:
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
@@ -68,14 +69,14 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"/>
 </p>
 
-#### ☁️ Cloud & AI Tools
+#### cloud & AI tools:
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/RAG-4B8BBE?logo=openai&logoColor=white"/>
 </p>
 
-#### 🗃️ Databases
+#### databases:
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
@@ -86,7 +87,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### gitHub stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhoomika-254&show_icons=true&theme=radical" alt="bhoomika-254 GitHub Stats" />
@@ -102,7 +103,7 @@
 
 ---
 
-### 📫 Connect With Me
+### find me on:
 
 <p>
   <a href="https://www.linkedin.com/in/bhoomikaramchandani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -111,13 +112,6 @@
 </p>
 
 ---
-
-<!-- Optional fun -->
-### 🧠 Fun Fact
-> I talk to AI more than I talk to people. And it gives better answers too.
-
-
-
 <!--
 **bhoomika-254/bhoomika-254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
