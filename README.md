@@ -14,7 +14,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 A senior year student, pursuing CSE in Hyderabad.
-- ⚡ High on AI, RAG-based chatbots, MCPs. 
+-  High on AI, RAG-based chatbots, MCPs. 
 - 🌱 Always up for building cool stuff. Do connect with me on linkedin/twitter.
 
 ---
