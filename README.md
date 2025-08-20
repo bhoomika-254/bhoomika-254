@@ -1,6 +1,6 @@
 <!-- Banner or profile avatar -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=hey,+i'm+Bhoomika!;ML+Engineer+%7C+%7C+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=hey,+i'm+bhoomika!;ML+engineer+%7C+%7C+builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
