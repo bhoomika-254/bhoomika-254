@@ -23,7 +23,7 @@
 
 - generative AI intern at deepforrest.ai (April 2025 - June 2025)
 - applied AI intern at FAFF (September 2025 - December 2025)
-- GTM Engineer intern at Almabase (April 2026 - Present)
+- gtm Engineer intern at Almabase (April 2026 - Present)
 
 ---
 
